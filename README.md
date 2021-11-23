@@ -1,5 +1,6 @@
 # demo-repo
-Learning Git Basics
+
+## Learning Git Basics
 
 Used the Git and GitHub for Beginners Course in freeCodeCamp.org in Youtube.
 
